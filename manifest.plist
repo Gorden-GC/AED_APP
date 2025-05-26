@@ -17,13 +17,13 @@
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string></string>
+					<string>https://github.com/Gorden-GC/AED_APP/blob/main/lQLPKH1LXePyNgvNBADNBACwJwPH9LkdNVYIBk3qsfZxAA_57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string></string>
+					<string>https://github.com/Gorden-GC/AED_APP/blob/main/lQLPKH1LXePyNgvNBADNBACwJwPH9LkdNVYIBk3qsfZxAA_512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -37,7 +37,7 @@
 				<key>platform-identifier</key>
 				<string>com.apple.platform.iphoneos</string>
 				<key>title</key>
-				<string>aed_apps</string>
+				<string>aed_app</string>
 			</dict>
 		</dict>
 	</array>
